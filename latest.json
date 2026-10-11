@@ -1,0 +1,11 @@
+{
+  "version": "1.7.1",
+  "notes": "首个正式发布版本",
+  "pub_date": "2026-10-11T12:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "待填",
+      "url": "https://github.com/shenshenshenlab/zhihuishu-update/releases/download/v1.7.1/智慧树-知到_1.7.1_x64-setup.exe"
+    }
+  }
+}
